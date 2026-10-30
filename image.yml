@@ -10,6 +10,8 @@ upstream:
   version:
     type: github_release
     repo: selkies-project/sealskin
+    require_assets:
+      - asset: '^sealskin_server\-.*\-py3\-none\-any\.whl$'
   notes:
     type: github_release
     repo: selkies-project/sealskin
