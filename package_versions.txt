@@ -49,7 +49,7 @@ cryptography                                                       50.0.2       
 curl                                                               8.23.0-r0                             apk                             
 dario.cat/mergo                                                    v1.0.2                                go-module                       
 docker                                                             7.2.0                                 python                          
-fastapi                                                            0.162.0                               python                          
+fastapi                                                            0.163.1                               python                          
 filippo.io/bigmod                                                  v0.1.0                                go-module                       
 filippo.io/edwards25519                                            v1.2.0                                go-module                       
 findutils                                                          4.10.0-r1                             apk                             
@@ -218,7 +218,7 @@ libattr                                                            2.5.2-r2     
 libavif                                                            1.4.2                                 UnknownPackage                  
 libbsd                                                             0.12.2-r0                             apk             (+1 duplicate)  
 libbz2                                                             1.0.8-r6                              apk                             
-libcrypto3                                                         3.5.9-r0                              apk                             
+libcrypto3                                                         3.5.9-r1                              apk                             
 libcurl                                                            8.23.0-r0                             apk                             
 libexpat                                                           2.10.0-r0                             apk                             
 libffi                                                             3.5.2-r1                              apk                             
@@ -234,7 +234,7 @@ libncursesw                                                        6.6_p20260516
 libpanelw                                                          6.6_p20260516-r0                      apk                             
 libproc2                                                           4.0.6-r0                              apk                             
 libpsl                                                             0.21.5-r3                             apk                             
-libssl3                                                            3.5.9-r0                              apk                             
+libssl3                                                            3.5.9-r1                              apk                             
 libstdc++                                                          15.2.0-r5                             apk                             
 libtiff                                                            4.7.2                                 UnknownPackage                  
 libunistring                                                       1.4.2-r0                              apk                             
@@ -251,15 +251,15 @@ ncurses-terminfo-base                                              6.6_p20260516
 netcat-openbsd                                                     1.234.1-r0                            apk                             
 nghttp2-libs                                                       1.70.0-r0                             apk                             
 oniguruma                                                          6.9.10-r0                             apk                             
-openssl                                                            3.5.9-r0                              apk                             
+openssl                                                            3.5.9-r1                              apk                             
 opentelemetry-api                                                  1.45.2                                python                          
 pillow                                                             13.0.0                                python          (+1 duplicate)  
 procps-ng                                                          4.0.6-r0                              apk                             
 pybind11                                                           UNKNOWN                               python                          
 pyc                                                                3.14.10-r1                            apk                             
 pycparser                                                          3.12                                  python                          
-pydantic                                                           2.14.2                                python                          
-pydantic-core                                                      2.50.2                                python                          
+pydantic                                                           2.14.3                                python                          
+pydantic-core                                                      2.50.4                                python                          
 pyjwt                                                              2.15.1                                python                          
 python-dotenv                                                      1.2.4                                 python                          
 python-multipart                                                   0.0.33                                python                          
@@ -272,9 +272,9 @@ raqm                                                               0.11.0       
 readline                                                           8.3.3-r1                              apk                             
 requests                                                           2.34.2                                python                          
 scanelf                                                            1.3.9-r1                              apk                             
-sealskin-server                                                    0.4.2                                 python                          
+sealskin-server                                                    0.5.0                                 python                          
 shadow                                                             4.18.0-r1                             apk                             
-signxml                                                            5.2.0                                 python                          
+signxml                                                            5.3.0                                 python                          
 skalibs-libs                                                       2.15.0.0-r0                           apk                             
 sqlite-libs                                                        3.53.4-r0                             apk                             
 ssl_client                                                         1.37.0-r31                            apk                             
